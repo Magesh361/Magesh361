@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Magesh M
 
-🎓 B.E. Computer Science Graduate  
+🎓 B.E. Computer Science Graduate 
+
 📊 Aspiring Data Analyst | Power BI Developer  
+
 💻 Passionate about transforming data into actionable insights  
 
 ---
