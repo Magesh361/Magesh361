@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Magesh M
 
-<!--
-**Magesh361/Magesh361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science Graduate  
+📊 Aspiring Data Analyst | Power BI Developer  
+💻 Passionate about transforming data into actionable insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Skills
+
+- **Data Analysis:** Python, Pandas, NumPy, Excel  
+- **Business Intelligence:** Power BI (DAX, Power Query)  
+- **Version Control:** Git & GitHub  
+- **Soft Skills:** Problem-solving, Attention to detail, Communication  
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 [Zomato Sales Dashboard](https://github.com/mageshm361/zomato-dashboard)
+Power BI dashboard analyzing Zomato sales, customer trends, and food category performance.
+
+### 🔹 [HR Analytics Dashboard](https://github.com/mageshm361/hr-dashboard)
+An interactive HR analytics dashboard visualizing employee attrition, department-wise distribution, and performance metrics.
+
+---
+
+## 📌 Currently Learning
+
+- Advanced Power BI (DAX, RLS)  
+- SQL for data analysis  
+- Data storytelling & dashboard design  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/magesh-m-430374343/)
+- 📧 mageshmm361@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me on LinkedIn.*
