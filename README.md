@@ -11,8 +11,11 @@
 ## 🛠️ Tech Skills
 
 - **Data Analysis:** Python, Pandas, NumPy, Excel  
+
 - **Business Intelligence:** Power BI (DAX, Power Query)  
+
 - **Version Control:** Git & GitHub  
+
 - **Soft Skills:** Problem-solving, Attention to detail, Communication  
 
 ---
