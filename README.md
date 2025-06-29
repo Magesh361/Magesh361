@@ -22,7 +22,7 @@
 ### 🔹 [Zomato Sales Dashboard](https://github.com/mageshm361/zomato-dashboard)
 Power BI dashboard analyzing Zomato sales, customer trends, and food category performance.
 
-### 🔹 [HR Analytics Dashboard]https://github.com/Magesh361/HR-data-analysis
+### 🔹 [HR Analytics Dashboard](https://github.com/Magesh361/HR-data-analysis) 
 An interactive HR analytics dashboard visualizing employee attrition, department-wise distribution, and performance metrics.
 
 ---
