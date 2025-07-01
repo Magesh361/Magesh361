@@ -1,45 +1,40 @@
-# 👋 Hi, I'm Magesh M
+# 👋 Hello, I'm Magesh M
 
 🎓 B.E. Computer Science Graduate 
 
 📊 Aspiring Data Analyst | Power BI Developer  
 
-💻 Passionate about transforming data into actionable insights  
+💻 Passionate about transforming data into actionable insights
 
 ---
 
-## 🛠️ Tech Skills
+## 🔧 Skills & Tools
 
-- **Data Analysis:** Python, Pandas, NumPy, Excel 
-
-- **Business Intelligence:** Power BI (DAX, Power Query)  
-
-- **Version Control:** Git & GitHub  
-
-- **Soft Skills:** Problem-solving, Attention to detail, Communication  
-
----
-
-## 📁 Featured Projects
-
-### 🔹 [HR Analytics Dashboard](https://github.com/Magesh361/HR-data-analysis) 
-An interactive HR analytics dashboard visualizing employee attrition, department-wise distribution, and performance metrics.
+- **Data Analysis**: Power BI, Python (Pandas, NumPy), Excel
+- 
+- **Data Handling**: Power Query, DAX
+-  
+- **Database**: SQL
+- 
+- **Tools**: Git & GitHub
 
 ---
 
-## 📌 Currently Learning
+## 📁 Projects
 
-- Advanced Power BI (DAX, RLS)  
-- SQL for data analysis  
-- Data storytelling & dashboard design  
+### 🔹 [HR Data Analysis Dashboard](https://github.com/Magesh361/hr-data-analysis)
+Analyzed employee data like attrition, satisfaction, and demographics using Power BI. Designed interactive dashboards for insights.
 
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/magesh-m-430374343/)
-- 📧 mageshmm361@gmail.com  
+### 🔹 [Zomato Data Analysis](https://github.com/Magesh361/zomato-data-analysis)
+Created Power BI dashboard to analyze restaurant data based on location, rating, and food types (veg/non-veg).
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me on LinkedIn.*
+## 📫 Connect with me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/magesh-mg)  
+- 📧 Email: mageshmm361@gmail.com
+
+---
+
+⭐️ *Thanks for visiting! I'm open to data projects and collaboration.*
