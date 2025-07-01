@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Skills
 
-- **Data Analysis:** Python, Pandas, NumPy, Excel  
+- **Data Analysis:** Python, Pandas, NumPy, Excel 
 
 - **Business Intelligence:** Power BI (DAX, Power Query)  
 
