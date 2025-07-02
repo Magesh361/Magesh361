@@ -1,8 +1,13 @@
-#Hi👋, I'm Magesh M
+## Hi👋, I'm Magesh M
+
 🎓 B.E. Computer Science Student | 📊 Aspiring Data Analyst  
+
 💻 Power BI • SQL • Excel • Python (Pandas, NumPy)  
+
 📈 Passionate about turning raw data into actionable insights  
+
 🚀 Building real-time dashboards using industry datasets  
+
 🔍 Seeking Entry-Level Data Analyst/BI Roles
 
 ## 📁 Projects
