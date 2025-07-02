@@ -1,5 +1,6 @@
+<p align="center">Hi👋, I'm Magesh M
+</p>
 <p align="center">
-  ## Hello👋, I'm Magesh M
 🎓 B.E. Computer Science Student (2021–2025)  
 📊 Aspiring Data Analyst | Power BI Developer  
 </p>
@@ -81,8 +82,8 @@
 
 ## ✅ Open to Opportunities
 
-I'm open to internships or full-time roles as a **Data Analyst**  
-Connect with me to collaborate or discuss opportunities 🚀
+- I'm open to internships or full-time    roles as a **Data Analyst. **  
+- Connect with me to collaborate or       discuss opportunities 🚀
 
 ---
 
