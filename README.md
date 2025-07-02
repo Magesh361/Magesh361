@@ -11,8 +11,12 @@
 ## 🔧 Skills & Tools
 
 - **Data Analysis**: Power BI, Python (Pandas, NumPy), Excel
+  
 - **Data Handling**: Power Query, DAX
+  
 - **Database**: SQL
+
+
 - **Tools**: Git & GitHub
 
 ---
