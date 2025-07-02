@@ -1,7 +1,5 @@
-
-## Hello👋, I'm Magesh M
-
 <p align="center">
+  ## Hello👋, I'm Magesh M
 🎓 B.E. Computer Science Student (2021–2025)  
 📊 Aspiring Data Analyst | Power BI Developer  
 </p>
@@ -59,7 +57,6 @@
 ## 📫 Contact Me
 
 - 📧 **Email:** mageshmm361@gmail.com  
-- 📞 **Phone:** +91 6383293722  
 - 🔗 **LinkedIn:** [linkedin.com/in/magesh-mg](https://www.linkedin.com/in/magesh-mg)  
 - 💼 **Portfolio:** Coming Soon...
 
@@ -84,8 +81,8 @@
 
 ## ✅ Open to Opportunities
 
-> I'm open to internships or full-time roles as a **Data Analyst**  
-> Connect with me to collaborate or discuss opportunities 🚀
+I'm open to internships or full-time roles as a **Data Analyst**  
+Connect with me to collaborate or discuss opportunities 🚀
 
 ---
 
