@@ -1,7 +1,7 @@
-<p align="center">Hi👋, I'm Magesh M
+## <p align="center"> Hi👋, I'm Magesh M
 </p>
 <p align="center">
-🎓 B.E. Computer Science Student (2021–2025)  
+🎓 B.E. Computer Science Student 
 📊 Aspiring Data Analyst | Power BI Developer  
 </p>
 
