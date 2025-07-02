@@ -1,25 +1,9 @@
-# 👋 Hello, I'm Magesh M
-
-🎓 B.E. Computer Science Graduate 
-
-📊 Aspiring Data Analyst | Power BI Developer  
-
-💻 Passionate about transforming data into actionable insights
-
----
-
-## 🔧 Skills & Tools
-
-- **Data Analysis**: Power BI, Python (Pandas, NumPy), Excel
-  
-- **Data Handling**: Power Query, DAX
-  
-- **Database**: SQL
-
-
-- **Tools**: Git & GitHub
-
----
+#Hi👋, I'm Magesh M
+🎓 B.E. Computer Science Student | 📊 Aspiring Data Analyst  
+💻 Power BI • SQL • Excel • Python (Pandas, NumPy)  
+📈 Passionate about turning raw data into actionable insights  
+🚀 Building real-time dashboards using industry datasets  
+🔍 Seeking Entry-Level Data Analyst/BI Roles
 
 ## 📁 Projects
 
