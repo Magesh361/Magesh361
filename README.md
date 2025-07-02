@@ -1,6 +1,6 @@
 ## Hi👋, I'm Magesh M
 
-🎓 B.E. Computer Science Student | 📊 Aspiring Data Analyst  
+- 🎓 B.E. Computer Science Student | 📊 Aspiring Data Analyst  
 
 💻 Power BI • SQL • Excel • Python (Pandas, NumPy)  
 
@@ -9,7 +9,7 @@
 🚀 Building real-time dashboards using industry datasets  
 
 🔍 Seeking Entry-Level Data Analyst/BI Roles
-
+---
 ## 📁 Projects
 
 ### 🔹 [HR Data Analysis Dashboard](https://github.com/Magesh361/hr-data-analysis)
