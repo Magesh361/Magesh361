@@ -55,8 +55,8 @@
 
 ---
 
-### 🏬 SuperStore Sales Dashboard() 
-An interactive **Excel dashboard** that visualizes SuperStore sales data by region, category, and segment.  
+### 🏬 [SuperStore Sales Dashboard](https://github.com/Magesh361/Superstore-Sale-Dashboard-) 
+> An interactive **Excel dashboard** that visualizes SuperStore sales data by region, category, and segment.  
 It helps analyze total sales, profit, and quantity while allowing filtering through slicers.
 
 ---
